@@ -1,1 +1,10 @@
 rabbitmq:3-management
+opensearchproject/opensearch:2.13.0
+opensearchproject/opensearch-dashboards:2.13.0
+ bitnami/zookeeper:3.9
+bitnami/kafka:3.4
+ provectuslabs/kafka-ui:latest
+nacos/nacos-server:v2.3.1
+nacos/mysql:8.0.30
+prom/prometheus:v2.52.0
+ grafana/grafana:10.4.2
