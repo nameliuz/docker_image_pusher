@@ -1,4 +1,4 @@
 nacos:latest
-sentinel:latest
+sentinel:1.8.2
 MongDB:latest
 RabbitMQ:latest
