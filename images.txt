@@ -1,1 +1,4 @@
-mysql:5.7.35
+nacos:latest
+sentinel:latest
+MongDB:latest
+RabbitMQ:latest
