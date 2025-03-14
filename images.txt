@@ -1,3 +1,1 @@
-registry.gitlab.cn/omnibus/gitlab-jh:latest
-bitnami/redis:latest
-wordpress:latest
+openwebui:latest
