@@ -1,1 +1,1 @@
-openwebui:latest
+ghcr.io/open-webui/open-webui:main
