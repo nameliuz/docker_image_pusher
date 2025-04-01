@@ -1,2 +1,2 @@
-n8n:latest
+n8n
 
