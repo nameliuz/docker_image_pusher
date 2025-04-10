@@ -1,2 +1,2 @@
-n8nio/n8n
+linshen/prompt-optimizer
 
