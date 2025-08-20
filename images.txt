@@ -1,1 +1,1 @@
- unclecode/crawl4ai:all-amd64
+n8n:latest
