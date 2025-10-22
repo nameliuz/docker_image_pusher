@@ -1,1 +1,1 @@
-vikiboss/60s:latest
+n8n:latest
